@@ -1,6 +1,6 @@
 {
   "gameTitle": [
-    "A Simple Life with My Unobtrusive Girl "
+    "Kehidupan Sederhana Bersama Gadisku yang juga Sederhana "
   ],
   "goldHeld": [
     "Gold"
@@ -9,53 +9,53 @@
     "\\fs[16]•Quantity Held:\\c[17] ${} \\c[0]\\py[-8]"
   ],
   "autoUpdate": [
-    "Update available: Version ${} game data detected. ",
-    "Would you like to download and update now?"
+    "Ulala, ada update: Versi ${} udah rilis nih. ",
+    "Mau didownload dan di update sekarang?"
   ],
   "fullScreen": [ 
-    "Full Screen"
+    "Layar Penuh"
   ],
   "masterVolume": [ 
-    "Master Volume"
+    "Volume Utama"
   ],
   "voiceVolume": [ 
-    "Voice Volume"
+    "Suara"
   ],    
   "BgmVolume": [
-    "BGM Volume"
+    "Volume BGM"
   ],
   "BgsVolume": [
-    "BGS Volume"
+    "Volume BGS"
   ],
   "SeVolume": [
-    "SE Volume"
+    "SFX"
   ],
   "MaxPlayerMsgs": [
-    "Max Player Msgs"
+    "batas Msgs"
   ],
   "GameFAQ": [
-    "Game Guide"
+    "Panduan"
   ],
   "ShowWeaponDurability": [
-    "Show Weapon Durability"
+    "Tunjukan Durabilitas Senjata"
   ],
   "DisableAutoUpdate": [
-    "Disable Auto Update"
+    "Matikan Auto Update"
   ],
   "LockedFPS": [
-    "Locked 60 FPS"
+    "Kunci di 60 FPS"
   ],
   "Language": [
-    "Game Language"
+    "Bahasa"
   ],
   "SwitchLanguage": [
-    "Game language change detected!",
-    "Restarting now to apply the new language settings!"
+    "Bahasa game diubah",
+    "Restart dulu untuk ubah bahasanya!"
   ],
   "ErrorReport": [
-    "An error occurred. Please report the bug on the NLCH Discord server.",
-    "(Click 'OK' to open the invite link)",
-    "(Attach a screenshot of the error)"
+    "Oh... error. Laporkan ke pihak NLCH ",
+    "(Klik 'OK' untuk ke link inivte)",
+    "(Jangan lupa kirimkan screenshotnya)"
   ],
   "UpdateComplete1": [
     "Game update completed!",
